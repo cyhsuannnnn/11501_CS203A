@@ -9,6 +9,6 @@ This is my first homework for Data Structure.
 - **Name:** 張詠宣
 - **Student ID:** s1141427
 
-## 📝 Repository Description
+## Repository Description
 This is the living document to record what I learned from this course. 
 I will use this repository to store my assignments, coding practices, and personal notes for CS203A.
