@@ -1,5 +1,5 @@
 # 11501_CS203A
-This is my first homework for Data Structure.
+This is my first homework for Data Structures.
 
 ## Course Information
 - **Course Number:** 11501_CS203A
