@@ -3,7 +3,7 @@ This is my first homework for Data Structure.
 
 ## Course Information
 - **Course Number:** 11501_CS203A
-- **Course Name: ** Data Structure
+- **Course Name:** Data Structure
 
  ## Student Information
 - **Name:** 張詠宣
